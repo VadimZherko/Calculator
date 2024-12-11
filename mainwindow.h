@@ -23,9 +23,9 @@ private:
 private slots:
     void digits_numbers();
     void on_pushButton_dot_clicked();
-    void operations();
     void on_pushButton_clear_clicked();
     void on_pushButton_equal_clicked();
     void math_operations();
+    void on_pushButton_plus_minus_clicked();
 };
 #endif // MAINWINDOW_H
